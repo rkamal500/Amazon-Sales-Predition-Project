@@ -26,3 +26,10 @@ The dataset used for this project contains historical sales data, including feat
   - Scikit-learn
 
 ## Project Structure
+data/ – Contains raw and cleaned datasets
+
+notebooks/ – Jupyter notebooks for EDA, preprocessing, and modeling
+
+models/ – Trained model files
+
+images/ – Visualizations and charts
